@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+todoApp:
+  description: "This is pre prod for Application for creating, reading, updating and deleting todoApp"
+  contact_details:
+    name: "Shashank"
+    email: "mytodoapp@gmail.com"
